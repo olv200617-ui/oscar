@@ -1,7 +1,7 @@
 # 👨‍💻 Óscar Lavado Vega
 ### Junior SysAdmin & Cloud / DevOps Enthusiast | Network & Systems Technician
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-aqui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linkedin.com/in/oscar-lavado-vega-481b55443)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olv200617@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Sevilla%2C%20Spain-lightgrey?style=for-the-badge&logo=googlemaps&logoColor=red)](https://maps.google.com)
 

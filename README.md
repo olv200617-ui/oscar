@@ -58,11 +58,4 @@ Aquí irán tus repositorios de infraestructura y scripts. Algunos ejemplos clav
 * **CFGM Sistemas Microinformáticos y Redes**
 * **Cisco Networking Academy:** CCNAv7 - Gestión de Redes
 * **Beca Erasmus+ (República Checa):** Soporte técnico a infraestructura y hardware en entorno corporativo internacional.
-
 ---
-
-### 📊 Estadísticas de GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
